@@ -1,4 +1,4 @@
-### Playing a game
+### Start Maze
 ```python
 python3 main.py play file-path='mazes/big.txt'
 ```
